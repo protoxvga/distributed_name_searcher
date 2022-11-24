@@ -14,8 +14,9 @@ Try to follow this steps to install open MPI on your system :
 
 ## Usage
 
-You can find on the zip file 4 text files used in the program.
+**You have to unzip and compile with text files at the same place of the c++ file.**
 Modify on the program text files name if you want to add nodes or different text files.
+Feel free to upgrade it to give text files through the command line.
 
 ### Compilation
 ```mpic++ name_searcher.cpp -o <executable-name>```
